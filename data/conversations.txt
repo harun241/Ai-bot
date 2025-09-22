@@ -6880,3 +6880,4 @@ can you tell me the cost of your packages|yeah! we have 3 packages they are 200$
 What is API?|Application Programming Interface
 our website name|safepay
 purpose of our website|purpose of our website is to detect fraud transaction and helps user to business without  captured by fraud
+ho|how are you
