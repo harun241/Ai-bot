@@ -9,7 +9,7 @@ app = FastAPI(title="AI Chat Bot API")
 # CORS for React frontend
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:3000","https://safe-pay-seven.vercel.app"],  # React dev server
+    allow_origins=["http://localhost:3000", "https://safe-pay-seven.vercel.app"],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
@@ -28,4 +28,5 @@ def chat(request: ChatRequest):
     return {"response": response}
 
 if __name__ == "__main__":
-    uvicorn.run("main:app", host="127.0.0.1", port=8000, reload=True)
+    # ✅ Needed for Render
+    uvicorn.run("main:app", host="0.0.0.0", port=8000, reload=True)
