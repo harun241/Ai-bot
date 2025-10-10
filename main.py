@@ -27,6 +27,11 @@ def chat(request: ChatRequest):
     response = run_agent(request.user_input)
     return {"response": response}
 
+# ✅ Keep-alive endpoint
+@app.get("/ping")
+def ping():
+    return {"status": "alive"}
+
 if __name__ == "__main__":
     # ✅ Needed for Render
     uvicorn.run("main:app", host="0.0.0.0", port=8000, reload=True)
