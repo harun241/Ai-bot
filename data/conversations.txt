@@ -6881,3 +6881,104 @@ What is API?|Application Programming Interface
 our website name|safepay
 purpose of our website|purpose of our website is to detect fraud transaction and helps user to business without  captured by fraud
 ho|how are you
+SafePay কী?|SafePay হলো একটি নিরাপদ পেমেন্ট প্ল্যাটফর্ম যা online transactions monitor করে fraud কমাতে সাহায্য করে।
+আমি SafePay ব্যবহার করতে চাই|SafePay ব্যবহার করতে হলে website বা app এ গিয়ে sign up করুন এবং account verify করুন।
+SafePay এ account কিভাবে খুলব?|Account খুলতে website/app এ sign up করুন, details দিন এবং email/phone verify করুন।
+SafePay এ transaction কিভাবে করবেন?|Login করে payment option থেকে recipient select করুন এবং amount confirm করে submit করুন।
+Transaction pending দেখাচ্ছে কেন?|Bank processing delay বা verification pending থাকতে পারে।
+Transaction cancel করতে চাই|Pending transaction হলে cancel option available, confirm করে cancel করুন।
+OTP আসছে না কেন?|Mobile network issue বা ভুল number দিলে OTP আসতে পারে না।
+Fraudulent transaction detect হলে কী হবে?|Transaction reverse হবে এবং notification পাঠানো হবে।
+SafePay এ 2FA enable করতে চাই|Account settings > Security > Enable 2FA।
+Login fail হলে কী করব?|Password check করুন, browser clear করুন, support contact করুন।
+SafePay app crash হলে কী করব?|App update করুন, cache clear করুন এবং support contact করুন।
+Payment failed হয়েছে কেন?|Insufficient balance, card error বা network issue হতে পারে।
+Recurring payment cancel করতে চাই|Account settings > Payments > Recurring Payments থেকে cancel করতে পারবেন।
+Password reset করতে চাই|Login page > Forgot Password এ গিয়ে reset করুন।
+Account close করতে চাই|Support contact করুন, pending transactions clear করুন।
+Transaction history download করতে চাই|Account > Transactions > Download।
+Account verification করতে হবে কেন?|High limits, security, regulatory compliance এর জন্য।
+Points accrue কিভাবে হয়?|Transactions এবং promotions অনুযায়ী।
+Points redeem করতে চাই|Account > Loyalty Points > Redeem।
+Mobile number update করতে চাই|Account settings > Personal Info।
+Email update করতে চাই|Account settings > Personal Info।
+Bank transfer কবে আসবে?|1-2 business days।
+Fraud alert আসলে কী করব?|Alert read করুন, suspicious activity report করুন।
+App bug report করতে চাই|Help & Support > Submit bug report।
+Transaction auto-debit না হলে কী করব?|Bank বা card issuer contact করুন।
+Multiple bank account link করতে পারি?|হ্যাঁ, account settings > Payment Methods থেকে।
+Account recovery করতে চাই|Support contact করুন, security verification complete করুন।
+Transaction duplicate হয়েছে কেন?|Network error বা double submit হলে duplicate transaction হতে পারে।
+Recurring payment setup করতে চাই|Account settings > Payments > Recurring Payments থেকে setup করুন।
+Transaction limits কী?|Daily বা monthly transaction limits verification level অনুযায়ী নির্ধারিত।
+SafePay app download করতে পারি কোথা থেকে?|Play Store বা App Store।
+Transaction geo-location mismatch হলে কী হবে?|Alert পাঠানো হবে এবং transaction review হবে।
+How to check loyalty points?|Account > Loyalty Points section।
+How to redeem loyalty points?|Go to Account > Loyalty Points > Redeem।
+How to create a SafePay account?|Sign up on website/app, provide details, verify email/phone.
+How to make a transaction on SafePay?|Login, select recipient, enter amount, confirm payment.
+Why is my transaction pending?|Pending due to bank processing or verification steps.
+How can I cancel a transaction?|If transaction is pending, cancel option available. Confirm to cancel.
+Why am I not receiving OTP?|OTP may not arrive due to network issues or wrong phone number.
+What happens if a fraudulent transaction is detected?|Transaction will be reversed and notification sent.
+How to enable 2FA on SafePay?|Account settings > Security > Enable 2FA.
+What to do if login fails?|Check password, clear browser cache, contact support.
+What to do if SafePay app crashes?|Update app, clear cache, contact support.
+Why did my payment fail?|Insufficient balance, card error, or network issue.
+How to cancel recurring payments?|Account settings > Payments > Recurring Payments > Cancel.
+How to reset password?|Login page > Forgot Password.
+How to close my account?|Contact support, clear pending transactions.
+How to download transaction history?|Account > Transactions > Download.
+Why is account verification required?|For high limits, security, and regulatory compliance.
+How do loyalty points accrue?|Automatically based on transactions and promotions.
+When will my bank transfer arrive?|1-2 business days.
+What should I do if I get a fraud alert?|Read alert, report suspicious activity.
+How to report app bugs?|Help & Support > Submit bug report.
+What to do if auto-debit fails?|Contact bank or card issuer.
+Can I link multiple bank accounts?|Yes, Account settings > Payment Methods.
+Why did I receive a duplicate transaction?|Network error or double submission.
+How to setup recurring payments?|Account settings > Payments > Recurring Payments.
+How to increase transaction limit?|Increase account verification level.
+When will I get transaction notifications?|Instant after success, pending may take bank processing.
+Can I export transaction reports?|Yes, in Excel or PDF format.
+How to update card information?|Account settings > Payment Methods > Edit card.
+লেনদেন রিসিপ্ট চাই|সফল লেনদেন হলে রিসিপ্ট ডাউনলোড বা ইমেইলে পাঠানো হবে।
+অটো-ডেবিট চালু করতে চাই|অ্যাকাউন্ট সেটিংস > পেমেন্ট > অটো-ডেবিট চালু করুন।
+SafePay নোটিফিকেশন পেতে চাই|অ্যাকাউন্ট সেটিংস > নোটিফিকেশন সক্রিয় করুন।
+পেমেন্ট রিমাইন্ডার সেট করতে চাই|অ্যাকাউন্ট সেটিংস > নোটিফিকেশন > পেমেন্ট রিমাইন্ডার চালু করুন।
+লেনদেন রিপোর্ট দেখতে চাই|অ্যাকাউন্ট > লেনদেন > রিপোর্ট দেখুন।
+ফ্রড অ্যালার্ট পেয়েছি, কী করব?|অ্যালার্ট পড়ুন এবং সন্দেহজনক কার্যকলাপ রিপোর্ট করুন।
+অ্যাকাউন্ট পুনরুদ্ধার করতে চাই|সহায়তার সাথে যোগাযোগ করুন এবং নিরাপত্তা যাচাই করুন।
+বহু ডিভাইসে লগইন করা যাবে?|হ্যাঁ, নিরাপত্তা যাচাইয়ের পরে।
+লেনদেন সীমা কী?|দৈনিক, সাপ্তাহিক বা মাসিক লেনদেন সীমা যাচাই স্তরের উপর নির্ভর করে।
+SafePay অ্যাপ ডাউনলোড কোথা থেকে করব?|প্লে স্টোর বা অ্যাপ স্টোর থেকে।
+অ্যাকাউন্ট সাময়িকভাবে স্থগিত হলে কী হবে?|নোটিফিকেশন পাবেন, সহায়তার সাথে যোগাযোগ করতে হবে।
+লেনদেন ফিল্টার করতে চাই|অ্যাকাউন্ট > লেনদেন > ফিল্টার ব্যবহার করুন।
+অ্যাকাউন্ট ব্যাকআপ করতে চাই|অ্যাপ/ওয়েবসাইট > অ্যাকাউন্ট সেটিংস > ব্যাকআপ।
+অফলাইন লেনদেন সম্ভব?|সীমিত ফিচার অফলাইনে ব্যবহারযোগ্য।
+লেনদেন নোটিফিকেশন দেরি হলে কী করব?|নেটওয়ার্ক বা প্রসেসিং চেক করুন, সহায়তার সাথে যোগাযোগ করুন।
+রেফারেল প্রোগ্রাম কী?|বন্ধুকে আমন্ত্রণ দিলে পয়েন্ট বা রিওয়ার্ড পাবেন।
+পয়েন্টস কবে মেয়াদ শেষ হবে?|প্রমোশন অনুযায়ী মেয়াদ শেষ হবে।
+পয়েন্টস ব্যবহার করতে চাই|অ্যাকাউন্ট > লয়্যালটি পয়েন্ট > ব্যবহার করুন।
+Recurring payment কিভাবে সেটআপ করব?|অ্যাকাউন্ট সেটিংস > পেমেন্ট > পুনরাবৃত্ত লেনদেন > সক্রিয় করুন।
+ফ্রড লেনদেন বাতিল করতে চাই|অ্যালার্ট পড়ে, সহায়তার মাধ্যমে রিপোর্ট করুন।
+SafePay অ্যাপ আপডেট করতে চাই|প্লে স্টোর বা অ্যাপ স্টোর থেকে অ্যাপ আপডেট করুন।
+পেমেন্ট ব্যর্থ হলে কী করব?|কার্ড, ব্যালেন্স বা নেটওয়ার্ক চেক করুন, সহায়তার সাথে যোগাযোগ করুন।
+ওটিপি পুনরায় পাঠাতে চাই|লেনদেন বা লগইন পেজ থেকে OTP পুনরায় পাঠাতে পারবেন।
+লেনদেন ডিলেই হয়, কেন?|ব্যাংক প্রসেসিং বা যাচাই প্রক্রিয়ার কারণে।
+কার্ড সংযুক্ত করতে চাই|অ্যাকাউন্ট সেটিংস > পেমেন্ট > নতুন কার্ড যোগ করুন।
+বহু ব্যাংক অ্যাকাউন্ট লিঙ্ক করতে পারি?|হ্যাঁ, অ্যাকাউন্ট সেটিংস > পেমেন্ট > নতুন ব্যাংক অ্যাকাউন্ট যোগ করুন।
+অ্যাকাউন্ট বন্ধ করতে চাই|সহায়তার সাথে যোগাযোগ করুন, স্থগিত লেনদেন মুছে দিন।
+ফ্রড লেনদেন রিপোর্ট করতে চাই|অ্যালার্ট পড়ে, সহায়তার মাধ্যমে রিপোর্ট করুন।
+পাসওয়ার্ড ভুলে গেছি|লগইন পেজ > পাসওয়ার্ড ভুলে গেছেন > পুনঃসেট করুন।
+লেনদেন কনফার্ম চাচ্ছি|সফল লেনদেন হলে নোটিফিকেশন বা ইমেইল পাবেন।
+লেনদেন ডুপ্লিকেট হয়েছে কেন?|নেটওয়ার্ক সমস্যা বা ডাবল সাবমিশন হলে।
+লেনদেন সীমা বাড়াতে চাই|যাচাই স্তর বৃদ্ধি করতে হবে, অ্যাকাউন্ট সেটিংস > যাচাই।
+সফল লেনদেনের রিসিপ্ট কোথায় পাব?|অ্যাকাউন্ট > লেনদেন > রিসিপ্ট ডাউনলোড করুন।
+SafePay নিরাপত্তা কীভাবে নিশ্চিত করে?|দুই স্তরের যাচাই, এনক্রিপশন, এবং লেনদেন মনিটরিং ব্যবহার করে।
+অ্যাপ বাগ রিপোর্ট করতে চাই|হেল্প & সাপোর্ট > বাগ রিপোর্ট সাবমিট করুন।
+Recurring payment বাতিল করতে চাই|অ্যাকাউন্ট সেটিংস > পেমেন্ট > পুনরাবৃত্ত লেনদেন > বাতিল করুন।
+পেমেন্ট রিমাইন্ডার পেতে চাই|অ্যাকাউন্ট সেটিংস > নোটিফিকেশন > রিমাইন্ডার সক্রিয় করুন।
+লেনদেন রিভিউ করতে চাই|অ্যাকাউন্ট > লেনদেন > রিভিউ করুন।
+অ্যাকাউন্ট ভেরিফিকেশন করতে হবে কেন?|উচ্চ লিমিট, নিরাপত্তা এবং নিয়ন্ত্রক প্রয়োজনীয়তার জন্য।
+SafePay ফ্রড প্রিভেনশন কীভাবে করে?|লেনদেন মনিটরিং এবং অ্যালার্ট ব্যবস্থা ব্যবহার করে।
